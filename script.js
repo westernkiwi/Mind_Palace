@@ -31,6 +31,6 @@ function draw() {
 	strokeWeight(5)
 	textAlign(CENTER)
 	textFont("courier")
-	text("Ah, a sanctuary in my thoughts.\nThank you for guiding me here!", imageWidth / 2, imageHeight - textHeight / 2)
+	text("Ah, a sanctuary in my thoughts.\nThank you for guiding me here!", imageWidth / 2, imageHeight - textHeight / 2 * 3)
 	pop()
 }
